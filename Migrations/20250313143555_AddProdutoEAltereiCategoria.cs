@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ExemploEF.Migrations
 {
     /// <inheritdoc />
-    public partial class AddCategoria : Migration
+    public partial class AddProdutoEAltereiCategoria : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -35,11 +35,39 @@ namespace ExemploEF.Migrations
                 {
                     table.PrimaryKey("PK_tbCategorias", x => x.CategoriaId);
                 });
+
+            migrationBuilder.CreateTable(
+                name: "tbProdutos",
+                columns: table => new
+                {
+                    ProdutoId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    Nome = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Estoque = table.Column<int>(type: "int", nullable: false),
+                    CategoriaId = table.Column<Guid>(type: "uniqueidentifier", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_tbProdutos", x => x.ProdutoId);
+                    table.ForeignKey(
+                        name: "FK_tbProdutos_tbCategorias_CategoriaId",
+                        column: x => x.CategoriaId,
+                        principalTable: "tbCategorias",
+                        principalColumn: "CategoriaId",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateIndex(
+                name: "IX_tbProdutos_CategoriaId",
+                table: "tbProdutos",
+                column: "CategoriaId");
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropTable(
+                name: "tbProdutos");
+
             migrationBuilder.DropTable(
                 name: "tbCategorias");
 

@@ -261,3 +261,4 @@ C:\Users\Natalia\Desktop\BackEnd\Aula1\ExemploEF\obj\Debug\net8.0\refint\Exemplo
 C:\Users\Natalia\Desktop\BackEnd\Aula1\ExemploEF\obj\Debug\net8.0\ExemploEF.pdb
 C:\Users\Natalia\Desktop\BackEnd\Aula1\ExemploEF\obj\Debug\net8.0\ExemploEF.genruntimeconfig.cache
 C:\Users\Natalia\Desktop\BackEnd\Aula1\ExemploEF\obj\Debug\net8.0\ref\ExemploEF.dll
+C:\Users\Natalia\Desktop\BackEnd\Aula1\ExemploEF\obj\Debug\net8.0\ExemploEF.sourcelink.json

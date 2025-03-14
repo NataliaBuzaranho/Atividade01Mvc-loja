@@ -3,56 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\migrations\\20250313143555_addprodutoealtereicategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:migrations\\20250313143555_addprodutoealtereicategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|c:\\users\\natalia\\desktop\\backend\\aula1\\exemploef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C471FD08-42B7-4564-89FB-1A4AAF700458}|ExemploEF.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Migrations\\20250313143402_AddProdutoEAltereiCategoria2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250313143402_AddProdutoEAltereiCategoria2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,160 +70,176 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categorias\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Index.cshtml",
-              "RelativeToolTip": "Views\\Categorias\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T18:40:24.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T18:36:39.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T18:18:14.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T18:16:01.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categorias\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Create.cshtml",
-              "RelativeToolTip": "Views\\Categorias\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T18:02:12.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categorias\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Categorias\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T18:02:04.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Categorias\\Details.cshtml",
               "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Details.cshtml",
               "RelativeToolTip": "Views\\Categorias\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T18:01:57.452Z"
+              "WhenOpened": "2025-03-13T16:58:48.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Clientes\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Clientes\\Create.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T17:53:33.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Clientes\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Clientes\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Delete.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T17:12:12.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Clientes\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Clientes\\Details.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T17:11:59.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Clientes\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Clientes\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T16:55:00.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T16:44:56.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Categorias\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Edit.cshtml",
               "RelativeToolTip": "Views\\Categorias\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T16:36:35.874Z"
+              "WhenOpened": "2025-03-13T16:50:17.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Produtos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Produtos\\Details.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:51:23.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Produtos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Produtos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:51:14.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Produtos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Produtos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:40:22.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:38:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250313143555_AddProdutoEAltereiCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Migrations\\20250313143555_AddProdutoEAltereiCategoria.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250313143555_AddProdutoEAltereiCategoria.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Migrations\\20250313143555_AddProdutoEAltereiCategoria.cs",
+              "RelativeToolTip": "Migrations\\20250313143555_AddProdutoEAltereiCategoria.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:35:55.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:34:07.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:34:05.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250313143402_AddProdutoEAltereiCategoria2.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Migrations\\20250313143402_AddProdutoEAltereiCategoria2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250313143402_AddProdutoEAltereiCategoria2.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Migrations\\20250313143402_AddProdutoEAltereiCategoria2.cs",
+              "RelativeToolTip": "Migrations\\20250313143402_AddProdutoEAltereiCategoria2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:34:02.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T14:33:31.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:32:36.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswDIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:31:21.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Natalia\\Desktop\\BackEnd\\Aula1\\ExemploEF\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:30:58.571Z"
             }
           ]
         }
